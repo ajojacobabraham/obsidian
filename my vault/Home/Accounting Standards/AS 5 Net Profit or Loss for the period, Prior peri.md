@@ -1,0 +1,1 @@
+# AS 5 : Net Profit or Loss for the period, Prior period items and Changes in Accounting Policies

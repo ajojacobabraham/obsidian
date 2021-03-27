@@ -1,0 +1,4 @@
+# WDV ON 1.4.18
+
+Amount: 4000000
+aNALYSIS:

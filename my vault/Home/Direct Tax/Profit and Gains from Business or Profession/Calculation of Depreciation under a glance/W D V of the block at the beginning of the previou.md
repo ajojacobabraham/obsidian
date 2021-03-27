@@ -1,0 +1,1 @@
+# W.D.V of the block at the beginning of the previous year

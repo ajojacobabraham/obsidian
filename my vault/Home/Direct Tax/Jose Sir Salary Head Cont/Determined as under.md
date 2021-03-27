@@ -1,0 +1,4 @@
+﻿Computer & electronic item|Motor car|Other Assets
+-|-|-|
+Actual Cost                                        (-) depn @ 50% for every year under WDV method                                    (-) Amount Recovered from employee|Actual Cost                                                           (-) depn @ 20% for every year under WDV method                                                           (-) Amount Recovered from employee|Actual Cost                                        (-) depn @ 10% for every year under SLMmethod                                    (-) Amount Recovered from employee
+"Value of perquisite "|"Value of perquisite "|"Value of perquisite "
