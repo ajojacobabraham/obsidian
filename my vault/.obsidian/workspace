@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "my file.md",
+            "file": "this is a second tes.md",
             "mode": "source"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "my file.md",
+                "file": "this is a second tes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,6 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Untitled.md"
+    "this is a second tes.md",
+    "Untitled.md",
+    "my file.md"
   ]
 }
