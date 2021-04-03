@@ -50,4 +50,4 @@ V = transactions velocity of circulation
 P = avg price level ( P = MV\T)
 T = total no of transactions 
 
-Extended equation to include v
+Extended equation to include demand deposits (M') and their velocity (V')
