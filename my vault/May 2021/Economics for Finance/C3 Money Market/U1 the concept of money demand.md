@@ -85,5 +85,8 @@ According to keynes, people hold money for 3 reasons
 ** a. The transactionary motive**
 Denotes motive for holding cash relating to "the need for cash for current transactions for personal and business exchange"
 
-Further classified into income motive and business (trade motive) both of which stressed on the requirement to 
+Further classified into income motive and business (trade motive) both of which stressed on the requirement of individuals and businessess to bridge the gap between receipt of income and planned expenditures 
+
+Keynes did not consider transaction balances as being affected by interest rates.
+The transaction demand of money is directly proportional and positive function of the level of income and is stated as foll
 
