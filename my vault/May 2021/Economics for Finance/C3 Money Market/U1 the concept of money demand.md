@@ -31,3 +31,4 @@ Money is the only asset which has perfect liquidity.
 6. portable
 7. possessing uniformity
 8. divisible into smaller parts without losing value
+
