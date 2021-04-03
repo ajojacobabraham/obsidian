@@ -45,4 +45,6 @@ Changes in the general level of commodity prices or changes in the value or purc
 
 Fishers aproach aka "Equation of exchange" or "transaction approach"
 **MV = PT **
-M = the 
+M = the total amount of money in circulation ( on avg ) in an economy;
+V = transactions velocity of circulation 
+P = avg price level ( P ==)
