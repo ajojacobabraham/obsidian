@@ -47,4 +47,7 @@ Fishers aproach aka "Equation of exchange" or "transaction approach"
 **MV = PT **
 M = the total amount of money in circulation ( on avg ) in an economy;
 V = transactions velocity of circulation 
-P = avg price level ( P ==)
+P = avg price level ( P = MV\T)
+T = total no of transactions 
+
+Extended equation to include v
