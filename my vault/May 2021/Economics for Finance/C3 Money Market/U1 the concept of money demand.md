@@ -40,6 +40,7 @@ Demand for money is actually demand for liquidity and demand to store value.
 ## Theories of demand of money
 
 ### Classical approach - Quantity theory of money
-Irving Fisher Yale University The purchasing power of money 
+Irving Fisher - Yale University - "The purchasing power of money "
 Changes in the general level of commodity prices or changes in the value or purchasing power of money are determined first and foremost by changes in quantity of money in circulation.
 
+Fishers aproach aka "Equation of exchange" pr 
