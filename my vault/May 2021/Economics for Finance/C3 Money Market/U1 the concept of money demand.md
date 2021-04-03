@@ -58,5 +58,8 @@ PT represents demand for money
 
 ### The neo classical approach - The Cambridge Approach
 Alfred Marshall , A.C Pigou, DH Robertson, and John Keynes 
-AKA ""
+AKA "The cash balance approach"
+
+The cambridge version holds that money increases utility in two ways 
+1. enbling the possibility of split up of sale and purchase
 
