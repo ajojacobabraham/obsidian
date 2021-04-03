@@ -36,3 +36,7 @@ Money is the only asset which has perfect liquidity.
 
 It is demanded for its purchasing power
 Demand for money is actually demand for liquidity and demand to store value.
+
+## Theories of demand of money
+
+### Classical approach
