@@ -51,5 +51,8 @@ P = avg price level ( P = MV\T)
 T = total no of transactions 
 
 Extended equation to include demand deposits (M') and their velocity (V')
-** MV
-*PT represents demand for money
+** MV + M'V' = PT **
+
+PT represents demand for money
+
+
