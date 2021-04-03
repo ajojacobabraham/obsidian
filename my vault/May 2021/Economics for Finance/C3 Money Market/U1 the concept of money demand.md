@@ -76,4 +76,9 @@ k proportion of nominal income that the people want to hold as cash
 
 ### Keynesian theory of demand of money
 AKA Liquidity preferance theory 
-According to keynes, 
+According to keynes, people hold money for 3 reasons 
+1. Transactionary Motive 
+2. Precautionary motive 
+3. Speculative motive 
+
+
