@@ -88,5 +88,11 @@ Denotes motive for holding cash relating to "the need for cash for current trans
 Further classified into income motive and business (trade motive) both of which stressed on the requirement of individuals and businessess to bridge the gap between receipt of income and planned expenditures 
 
 Keynes did not consider transaction balances as being affected by interest rates.
-The transaction demand of money is directly proportional and positive function of the level of income and is stated as foll
+The transaction demand of money is directly proportional and positive function of the level of income and is stated as :
+** Lr = kY**
+Lr is the transactions demand for money
+k is the ratio of earnings which is kept for transaction purposes
+Y is the earnings 
+
+
 
