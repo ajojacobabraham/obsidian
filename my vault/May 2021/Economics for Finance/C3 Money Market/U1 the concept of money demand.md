@@ -35,3 +35,4 @@ Money is the only asset which has perfect liquidity.
 ### The demand for money
 
 It is demanded for its purchasing power
+Demand for money is actually demand for liquidity and demand to store value.
