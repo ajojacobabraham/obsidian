@@ -72,4 +72,6 @@ Md is the demand for money
 Y real national income 
 P avg price of currently produced goods and services 
 PY Nominal income 
-k =\
+k proportion of nominal income that the people want to hold as cash
+
+###
