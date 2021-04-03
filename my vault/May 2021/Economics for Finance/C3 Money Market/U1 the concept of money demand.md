@@ -10,7 +10,7 @@ As a statistical concept, money could include certain liquid liabilities of a pa
 
 Anything that would act as a medium of exchange is not necessarily money. For example, a bill of exchange may also be a medium of exchange, but it is not money since it is not generally accepted as a means of payment.
 
-### Functions of [[Money]]
+### Functions of [[money]]
 
 1. Money is a convenient medium of exchange or it is an instrument that facilitates easy exchange of goods and services.
 By acting as an intermediary, money increases the ease of trade and reduces the inefficiency and transaction costs involved in a barter exchange. ( Money eliminates the need for double coincidence of wants )
@@ -32,7 +32,7 @@ Money is the only asset which has perfect liquidity.
 7. possessing uniformity
 8. divisible into smaller parts without losing value
 
-### The demand for money
+### The demand for [[money]]
 
 It is demanded for its purchasing power
 Demand for money is actually demand for liquidity and demand to store value.

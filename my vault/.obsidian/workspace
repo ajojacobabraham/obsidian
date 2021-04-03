@@ -8,8 +8,11 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "May 2021/Economics for Finance/C3 Money Market/U1 the concept of money demand.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -66,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "May 2021/Economics for Finance/C3 Money Market/U1 the concept of money demand.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -82,8 +86,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Money.md",
     "May 2021/Economics for Finance/C3 Money Market/U1 the concept of money demand.md",
+    "Money.md",
     "May 2021/Economics for Finance/C3 Money Market.md",
     "U1. the concept of money demand.md",
     "Home/Audit/Standards of Auditing/SA230.md",
