@@ -8,9 +8,10 @@
         "type": "leaf",
         "active": true,
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Home/Audit/Standards of Auditing/SA230/Untitled.png"
+            "file": "Home/Audit/Standards of Auditing/SA230.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home/Audit/Standards of Auditing/SA230/Untitled.png",
+                "file": "Home/Audit/Standards of Auditing/SA230.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,15 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "Home/Audit/Standards of Auditing/SA230.md",
+    "Home/Audit/Standards of Auditing/SA200.md",
     "Home/Audit/Standards of Auditing/SA230/Untitled.png",
     "my file.md",
-    "Home/Audit/Standards of Auditing/SA230.md",
     "Home/Audit/3 Audit Documentation and Audit Evidence.md",
     "May 2021/EIS & SM.md",
     "May 2021/Economics for Finance.md",
     "May 2021/AS 7 CONSTRUCTION CONTRACTS.md",
     "Workout & Diet.md",
-    "Home.md",
-    "May 2021.md"
+    "Home.md"
   ]
 }
