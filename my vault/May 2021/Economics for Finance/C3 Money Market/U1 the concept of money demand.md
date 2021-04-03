@@ -68,4 +68,8 @@ thus demand for money also involves precautionary motive in cambridge approach
 How much money will be demanded depends upon partly on the income and partly on other factors mainly wealth and interest rates
 
 ** Md = k PY**
-Md is the demand fo;r 
+Md is the demand for money
+Y real national income 
+P avg price of currently produced goods and services 
+PY Nominal income 
+k =\
