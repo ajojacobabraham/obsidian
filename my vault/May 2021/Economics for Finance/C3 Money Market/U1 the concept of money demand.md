@@ -2,7 +2,7 @@
 
 ### Introduction
 
-In simple terms money refers to assets which are commonly used and accepted as a means of payment or as a medium of exchange or for transferring purchasing power. 
+In simple terms [[money]] refers to assets which are commonly used and accepted as a means of payment or as a medium of exchange or for transferring purchasing power. 
 
 For policy purposes, money may be defined as the set of liquid financial assets, the variation in the stock of which will have impact on aggregate economic activity. 
 
@@ -10,7 +10,7 @@ As a statistical concept, money could include certain liquid liabilities of a pa
 
 Anything that would act as a medium of exchange is not necessarily money. For example, a bill of exchange may also be a medium of exchange, but it is not money since it is not generally accepted as a means of payment.
 
-### Functions of Money
+### Functions of [[Money]]
 
 1. Money is a convenient medium of exchange or it is an instrument that facilitates easy exchange of goods and services.
 By acting as an intermediary, money increases the ease of trade and reduces the inefficiency and transaction costs involved in a barter exchange. ( Money eliminates the need for double coincidence of wants )
@@ -21,7 +21,7 @@ A common unit of account facilitates a system of orderly pricing which is crucia
 Money also functions as a permanent store of value.
 Money is the only asset which has perfect liquidity.
 
-**General characteristics money should possess**
+**General characteristics [[money]] should possess**
 
 1. generally acceptable 
 2. durable and long lasting
@@ -41,4 +41,5 @@ Demand for money is actually demand for liquidity and demand to store value.
 
 ### Classical approach - Quantity theory of money
 Irving Fisher Yale University The purchasing power of money 
-Changes in the general level of commodity prices or changes in the value or purchasing power of money are determined first and foremost by changes in quantity of money 
+Changes in the general level of commodity prices or changes in the value or purchasing power of money are determined first and foremost by changes in quantity of money in circulation.
+
