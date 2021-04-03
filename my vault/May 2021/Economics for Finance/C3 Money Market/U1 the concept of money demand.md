@@ -39,4 +39,6 @@ Demand for money is actually demand for liquidity and demand to store value.
 
 ## Theories of demand of money
 
-### Classical approach
+### Classical approach - Quantity theory of money
+Irving Fisher Yale University The purchasing power of money 
+
