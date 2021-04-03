@@ -74,4 +74,6 @@ P avg price of currently produced goods and services
 PY Nominal income 
 k proportion of nominal income that the people want to hold as cash
 
-###
+### Keynesian theory of demand of money
+AKA Liquidity preferance theory 
+According to keynes, 
