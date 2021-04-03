@@ -67,3 +67,5 @@ The cambridge version holds that money increases utility in two ways
 thus demand for money also involves precautionary motive in cambridge approach 
 How much money will be demanded depends upon partly on the income and partly on other factors mainly wealth and interest rates
 
+** Md = k PY**
+Md is the demand fo;r 
