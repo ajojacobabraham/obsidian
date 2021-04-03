@@ -82,4 +82,6 @@ According to keynes, people hold money for 3 reasons
 3. Speculative motive 
 
 
-** a. The transactionary mov
+** a. The transactionary motive**
+Denotes motive for holding cash relating to "the need for cash for 
+
