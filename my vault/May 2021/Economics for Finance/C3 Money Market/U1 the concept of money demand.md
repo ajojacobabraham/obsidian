@@ -56,5 +56,7 @@ Extended equation to include demand deposits (M') and their velocity (V')
 PT represents demand for money
 
 
-### The neo classical approach - The Cambridge Approa
+### The neo classical approach - The Cambridge Approach
+Alfred Marshall , A.C Pigou, DH Robertson, and John Keynes 
+AKA ""
 
