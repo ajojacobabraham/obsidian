@@ -61,5 +61,9 @@ Alfred Marshall , A.C Pigou, DH Robertson, and John Keynes
 AKA "The cash balance approach"
 
 The cambridge version holds that money increases utility in two ways 
-1. enbling the possibility of split up of sale and purchase
+1. enbling the possibility of split up of sale and purchase to two different points of time rather than being simultaneous and 
+2. being a hedge against uncertainty
+
+
+
 
