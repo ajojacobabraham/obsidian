@@ -64,6 +64,6 @@ The cambridge version holds that money increases utility in two ways
 1. enbling the possibility of split up of sale and purchase to two different points of time rather than being simultaneous and 
 2. being a hedge against uncertainty
 
-
-
+thus demand for money also involves precautionary motive in cambridge approach 
+How much money will be demanded depends upon the 
 
