@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "1012892cf2585de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "dbbdcbca9e1de140",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "1. Automated Business Process.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8c6d6921259d8e62",
+    "type": "split",
+    "children": [
+      {
+        "id": "d85dbad752492523",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab891daeaa139b0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "c7d8496fbd5e0804",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "08d5903ef24a5627",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b79765f41bd8554",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f9e8621502dfcec1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1. Automated Business Process.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dbbdcbca9e1de140",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
