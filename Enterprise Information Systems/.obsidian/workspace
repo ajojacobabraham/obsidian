@@ -7,9 +7,10 @@
         "id": "dbbdcbca9e1de140",
         "type": "leaf",
         "state": {
-          "type": "image",
+          "type": "markdown",
           "state": {
-            "file": "Pasted image 20210413142716.png"
+            "file": "1. Automated Business Process.md",
+            "mode": "source"
           }
         }
       }
@@ -67,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20210413142716.png",
+                "file": "1. Automated Business Process.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -87,8 +88,9 @@
   },
   "active": "dbbdcbca9e1de140",
   "lastOpenFiles": [
-    "Pasted image 20210413142716.png",
     "1. Automated Business Process.md",
+    "Pasted image 20210413142736.png",
+    "Pasted image 20210413142716.png",
     "Untitled.md"
   ]
 }
