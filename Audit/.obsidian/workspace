@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "e51861c5829cabe6",
+    "type": "split",
+    "children": [
+      {
+        "id": "206d0b7373b0e7e9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "5. Fraud and Responsibilitis of Auditor in this regard.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e6249dca6d531d63",
+    "type": "split",
+    "children": [
+      {
+        "id": "e4a7c9053974e8a4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "324d5d92ac1be01f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "89c8e6a0a6f6619a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "6ab2f869eab1f7cc",
+    "type": "split",
+    "children": [
+      {
+        "id": "60ba29db938a521b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7c953a56980e7542",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "5. Fraud and Responsibilitis of Auditor in this regard.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "206d0b7373b0e7e9",
+  "lastOpenFiles": [
+    "Untitled.md"
+  ]
+}
