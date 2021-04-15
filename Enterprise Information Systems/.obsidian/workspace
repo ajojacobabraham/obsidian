@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "1. Automated Business Process.md",
-            "mode": "preview"
+            "file": "2. Financial and Accounting Systems..md",
+            "mode": "source"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Automated Business Process.md",
+                "file": "2. Financial and Accounting Systems..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,10 +88,10 @@
   },
   "active": "dbbdcbca9e1de140",
   "lastOpenFiles": [
+    "Untitled.md",
     "1. Automated Business Process.md",
     "Pasted image 20210413142839.png",
     "Pasted image 20210413142736.png",
-    "Pasted image 20210413142716.png",
-    "Untitled.md"
+    "Pasted image 20210413142716.png"
   ]
 }
