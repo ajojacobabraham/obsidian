@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "5. Fraud and Responsibilitis of Auditor in this regard.md",
+            "file": "3. Audit Documentation & Audit Evidence.md",
             "mode": "source"
           }
         }
@@ -52,8 +52,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6ab2f869eab1f7cc",
@@ -69,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "5. Fraud and Responsibilitis of Auditor in this regard.md",
+                "file": "3. Audit Documentation & Audit Evidence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,7 +88,7 @@
   },
   "active": "206d0b7373b0e7e9",
   "lastOpenFiles": [
-    "5. Fraud and Responsibilitis of Auditor in this regard.md",
-    "Untitled.md"
+    "Untitled.md",
+    "5. Fraud and Responsibilitis of Auditor in this regard.md"
   ]
 }
